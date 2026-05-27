@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "schoolmc7.aternos.me",
+    "port": 60733,
     "version": "1.21.1"
   },
   "position": {
